@@ -15,7 +15,7 @@ int main(){
 		n=1;
 		for(col=0;col<=row;col++){
 			printf(" %d",n);
-			n=n*(row-col)/(col+1);
+			n=n*(row-col)/(col+1);//for pascal triangluar form
 		}
 		printf("\n");
 		
