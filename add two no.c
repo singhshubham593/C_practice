@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
- // to add to no;
+ // to add to number;
 int main()
 {
 	int a,b,c;
