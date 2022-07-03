@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// add n number enter by user.
+
 int main(){
 	int i,n,sum=0;
 	printf("Enter the number :");
