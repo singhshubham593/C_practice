@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// Convert decimal into binary.
+
 int main(){
 	int var,no,re,binary=0,i=0;
 	printf("Enter the number :");

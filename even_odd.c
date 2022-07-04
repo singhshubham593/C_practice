@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+
 // to find the given no is even or odd.
 
 int main(){
