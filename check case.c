@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+//write a program for upparcase or lowercase .
+
 int main(){
 	char ch;
 	printf("Enter the character :");
