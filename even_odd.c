@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-// to find the given no is even or odd.
+// to find the given number is even or odd.
 
 int main(){
 	int a;
