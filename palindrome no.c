@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+// check number is  pallindrome or not.
+
 int main(){
 	int n,rem,temp,sum=0;
 	printf("Enter the number :");
