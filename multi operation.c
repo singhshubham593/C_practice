@@ -1,4 +1,6 @@
  #include <stdio.h>
+ 
+ //multioperation in one code.
 
 int main()
 {
