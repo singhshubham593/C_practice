@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// leap year or not.
+
 int main ()
 {
 	int n;
