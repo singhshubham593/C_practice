@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// prime no or not.
+
 int main(){
 	int i,n,count=0;
 	printf("Enter the number :");
