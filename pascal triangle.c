@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
+// pascal triangle
+
 int main(){
 
      int row,col,space,n,no;
