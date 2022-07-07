@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+// root of quadratic equation.
+
 int main(){
 	float a,b,c,d,r1,r2;
 	printf("Enter the value of a,b and c.\n");
