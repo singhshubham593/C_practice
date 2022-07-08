@@ -5,7 +5,7 @@ int main(){
 	int i;
 	int initial;
 	int final;
-	int user=5;
+	int user;
 	int sum=0;
 	
 	printf("Enter the range :\n");
