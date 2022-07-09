@@ -1,4 +1,6 @@
-#include<stdio.h>
+#include<stdio.h> 
+
+// to check given word is vowel or  not.
 
 int main ()
 {
