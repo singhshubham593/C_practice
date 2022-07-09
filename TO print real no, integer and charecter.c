@@ -2,6 +2,7 @@
 #include<conio.h>
 
 // to print real no, integer and character.
+
 int main ()
 {
 	int a;
