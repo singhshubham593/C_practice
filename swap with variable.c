@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// swap value with variable.
+
 int main(){
 	int a,b,c;
 	printf("Enter the value of a and b :");
