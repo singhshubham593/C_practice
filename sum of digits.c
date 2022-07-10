@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+// sum of digit.
+
 int main(){
 	int n,digit,sum=0;
 	printf("Enter the number :");
