@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// smallest or largest element in array.
+
 int main(){
     	int arr[10],i,n,small,big;
 	
