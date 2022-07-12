@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+// to check armstrong no or not.
+
 int main(){
 	
 	int n;
