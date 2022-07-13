@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// sum of all no in range divisible by user given.
+
 
 int main(){
 	int i;
