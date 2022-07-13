@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+
+
 int main(){
 	int i,n,f1,f2,f3;
 	printf("Enter tne number :");
