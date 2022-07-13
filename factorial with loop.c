@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+// factorial for loop.
  
 int main(){
 	int i,n,fact=1;
