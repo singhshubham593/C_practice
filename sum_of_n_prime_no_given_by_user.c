@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// sum of n prime no given by user.
+
 int main(){
 	int n,i,sum=0,j;
 	printf("Enter the number :");
