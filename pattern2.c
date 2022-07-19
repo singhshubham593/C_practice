@@ -11,7 +11,7 @@ int main(){
 	
 	int i,j,n,k;
 	printf("Enter number :");
-	scanf("%d",n);
+	scanf("%d",&n);
 	k=1;
 	
 	for(i=1;i<=4;i++){
