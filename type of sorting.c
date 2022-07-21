@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 int main(){
+	
+	// bubble sort 
 	int i,j,n,temp;
 	scanf("%d",&n);
 	int a[n];
@@ -25,5 +27,6 @@ int main(){
 	return 0;
 	
 	}
+	
 	
 }
