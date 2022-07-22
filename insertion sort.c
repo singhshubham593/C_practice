@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// insertion sort.
+
 int main(){
 	int i,j,temp;
 	int a[6]={7,3,5,4,2,6};
