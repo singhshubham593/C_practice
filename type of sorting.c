@@ -3,6 +3,7 @@
 int main(){
 	
 	// bubble sort 
+	
 	int i,j,n,temp;
 	scanf("%d",&n);
 	int a[n];
