@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+//bubble sort in accending order.
+
 void swap(int *xp,int *yp){
 	int temp;
 	
