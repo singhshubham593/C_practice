@@ -10,5 +10,6 @@ int main(){
 	printf("\n");
 	
 	// condition?expression1:expression2;
+	
 	(a>b && a>c)?printf("%d",a):(b>c)?printf("%d",b):printf("%d",c);
 }
